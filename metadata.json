@@ -1,0 +1,6 @@
+{
+  "name": "Йоси Какаши и Яши Какаши",
+  "description": "3D экшн-игра о приключениях кота-мастера Йоси и его ученика Яши, сражающихся против нашествия гигантских ног.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
